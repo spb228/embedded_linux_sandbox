@@ -1,1 +1,9 @@
-build
+yocto/build/cache*
+yocto/build/download*
+yocto/build/sstate*
+yocto/build/tmp
+yocto/build/bitbake*
+yocto/build/cat
+yocto/build/hashserve.sock
+yocto/build/conf/conf-summary.txt
+yocto/build/conf/conf-notes.txt
