@@ -7,3 +7,4 @@ yocto/build/cat
 yocto/build/hashserve.sock
 yocto/build/conf/conf-summary.txt
 yocto/build/conf/conf-notes.txt
+yocto/build-*
