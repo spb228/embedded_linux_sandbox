@@ -15,6 +15,8 @@ python do_display_banner() {
 
 SRC_URI = "file://helloworld.c" 
 
+RDEPENDS:${PN} += "glib-2.0"
+
 S = "${WORKDIR}"
  
 do_compile() { 
